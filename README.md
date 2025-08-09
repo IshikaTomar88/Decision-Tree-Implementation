@@ -9,7 +9,7 @@ Here is a complete, well-structured, and effective README.md file for your Decis
 ✅ EDA insights
 ✅ Tasks and steps
 ✅ Visuals
-✅ Summary & conclusion
+✅Conclusion
 
 # Table of Contents
 📊 Dataset
@@ -19,7 +19,6 @@ Here is a complete, well-structured, and effective README.md file for your Decis
 📈 Model Training
 🎯 Model Evaluation
 📊 Exploratory Data Analysis (EDA)
-📌 Summary
 ✅ Conclusion
 🖼️ Visual Representation
 
