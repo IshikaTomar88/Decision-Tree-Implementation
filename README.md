@@ -59,7 +59,7 @@ Task
 * Explored feature distributions with seaborn.pairplot()
 
 #  Model Training
-<img width="791" height="210" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/8e57c286-0890-4758-b443-cfa33588a1af" />
+<img width="1347" height="616" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/517f67f8-e025-428f-92fd-de53d5d55096" />
 
 Gini Impurity used as splitting criterion
 Tree grows recursively based on best feature splits
@@ -68,6 +68,7 @@ Leaf nodes hold the majority class
 # Model Evaluation
 
 <img width="803" height="563" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/7bf9433a-1fa7-461a-8bd4-e0da056b419a" />
+
 
 * High precision/recall indicates strong predictive power.
 * Misclassifications mostly between Versicolor and Virginica.
