@@ -73,7 +73,8 @@ Leaf nodes hold the majority class
 * Misclassifications mostly between Versicolor and Virginica.
 
 # Exploratory Data Analysis (EDA)
-<img width="795" height="239" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/20b5d736-e393-4238-b792-604685e924cf" />
+
+<img width="577" height="578" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/15169c4b-3f64-4b90-a76d-a47f987fd680" />
 
 * Setosa is clearly separable from the other two classes.
 * Petal Length and Petal Width are highly informative.
