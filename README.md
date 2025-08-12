@@ -1,5 +1,5 @@
 # Decision-Tree-Implementation
-Here is a complete, well-structured, and effective README.md file for your Decision Tree Classifier implementation. It includes:
+Here is a complete, well-structured, and effective README.md file for your Decision Tree Classifier implementation. It includes :
 
 ✅ Clear project description
 ✅ Dataset
