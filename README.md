@@ -67,7 +67,8 @@ Leaf nodes hold the majority class
 
 # Model Evaluation
 
-<img width="803" height="563" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/7bf9433a-1fa7-461a-8bd4-e0da056b419a" />
+<img width="1347" height="438" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/80b8dabc-f639-4bf4-86e5-1361bd62a2f0" />
+<img width="496" height="444" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/7e4c584e-d942-4a76-84b6-8e83f2aa5deb" />
 
 
 * High precision/recall indicates strong predictive power.
@@ -80,6 +81,11 @@ Leaf nodes hold the majority class
 * Setosa is clearly separable from the other two classes.
 * Petal Length and Petal Width are highly informative.
 * Versicolor and Virginica slightly overlap — deeper trees help here.
+
+<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/0194f7a1-4c1b-45e4-a9dc-7ecffc62557d" />
+<img width="1397" height="482" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/65a97f8f-c9a6-42fd-aa52-1623bc1c498d" />
+<img width="1219" height="670" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/c59fdc1c-f1d0-43f6-bf3e-44f2000fde5e" />
+
 
 # ✅ Conclusion
 This project contain a comprehensive example of applying a Decision Tree Classifier to the Iris dataset. It covers the essential steps from data loading and preparation to model training, prediction, and visualization. The visualizations and text representation of the tree allow for a deeper understanding of how the model makes its predictions. This serves as a foundational example for applying Decision Trees to classification problems.
